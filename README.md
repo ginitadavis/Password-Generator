@@ -12,7 +12,7 @@ My motivation was to start getting comfortable programming in javascript. I also
 
 The page will have a non-editable text box and a button. After clicking the Generate Password button, there will be a prompt that will ask to enter a length between 8 and 128 characters. If the user enters a letter or a symbol, there will a validation asking to enter a number. If the number entered is outside the said parameters, there will be another validation asking the user to enter a valid number. After that, the webpage will ask if the user wants to add uppercase and lowercase letters, as well as numbers and symbols. The user can choose what to add and then the webpage will show the password in the textbox.
 
-Link to the deployed app https://ginitadavis.github.io/Password-Generator/
+Link to the deployed app https://ginitadavis.github.io/Password-Generator/index.html
 
 ## License
 Copyright (c) [2022] [Gina Davis]
