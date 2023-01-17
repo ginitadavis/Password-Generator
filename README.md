@@ -4,7 +4,7 @@
 
 This webpage is a password generator. The challenge provided a starter code that I copied from a repository, and I created the password generator function that first gets the user's inputs through a series of windows alerts asking what criteria the user wants for their password, and based on the user's answers, the function adds the chosen elements into a variable. Then I randomly get elements from the variable and that is display to the user. I also added validations in case the user does not follow the webpade's guide and either enters numbers outside the scope, or enters a letter or a symbol instead of a number.
 
-My motivation was to start getting comfortable programming in javascript. I also wanted to be able to develop my own code and start thinking as a programmer. 
+My motivation was to start getting comfortable programming in javascript. I also wanted to be able to develop my own code and start thinking as a programmer.
 
 ## Usage
 
